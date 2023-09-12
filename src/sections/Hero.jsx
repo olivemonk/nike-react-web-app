@@ -20,8 +20,7 @@ const Hero = () => {
           <span className="text-coral-red inline-block mt-3">Nike</span> Shoes
         </h1>
         <p className="font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi
-          laudantium nostrum atque, quae doloribus aperiam.
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci, error placeat sed dicta autem quod. Ullam, obcaecati. Officia, exercitationem similique.
         </p>
         <Button label='Shop Now' iconUrl={arrowRight} />
         <div className="flex justify-starts items-start flex-wrap w-full mt-20 gap-16">
